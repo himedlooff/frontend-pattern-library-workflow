@@ -6,7 +6,7 @@ This document is my attempt to capture and share my experience and thoughts with
 
 :question:
 I'm not exactly sure about terminology here. Am I referring to a style guide, a living style guide, a pattern library?
-_Pattern library_ seems to be the clearest term since style guide can also refer to design-centric guides.
+_Pattern library_ seems to be the clearest term since _style guide_ can also refer to design-centric guides.
 
 :speech_balloon:
 Discussion is encouraged by filling out an issue:
