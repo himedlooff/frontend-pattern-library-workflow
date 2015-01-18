@@ -1,12 +1,12 @@
-# Experiences and thoughts on styleguide driven development
+# Introducing styleguides into your front-end workflow
 
 :thought_balloon:
-I have been using a pseudo-styleguide driven approach to recent projects.
+As a front-end developer I have recently been including styleguides into my workflow.
 This document is my attempt to capture and share my experience and thoughts with others.
 
 :speech_balloon:
 Discussion is encouraged by filling out an issue:
-<https://github.com/himedlooff/styleguide-driven-development-notes/issues/new>
+<https://github.com/himedlooff/frontend-styleguide-workflow/issues/new>
 
 ---
 
