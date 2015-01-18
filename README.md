@@ -1,4 +1,4 @@
-# pattern-based-dev-notes
+# Styleguide driven development
 
 - Analyze the design and spot new patterns.
 - Build the patterns first.
