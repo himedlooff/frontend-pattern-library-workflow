@@ -1,6 +1,9 @@
 # Experiences and thoughts on styleguide driven development
 
-Intro...
+I have been using a pseudo-styleguide driven approach to recent projects.
+This document is my attempt to capture and share my experience and thoughts with others.
+
+Discussion is encouraged by filiing out an issue: <https://github.com/himedlooff/styleguide-driven-development-notes/issues/new>
 
 ---
 
