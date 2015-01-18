@@ -1,4 +1,12 @@
-# Styleguide driven development
+# Experiences and thoughts on styleguide driven development
+
+Intro...
+
+---
+
+# Experience
+
+## Process used
 
 - Analyze the design and spot new patterns.
 - Build the patterns first.
