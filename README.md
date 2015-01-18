@@ -4,6 +4,10 @@
 As a front-end developer I have recently been including pattern libraries into my workflow.
 This document is my attempt to capture and share my experience and thoughts with others.
 
+:question:
+I'm not exactly sure about terminology here. Am I referring to a styleguide, a living styleguide, a pattern library?
+_Pattern library_ seems to be the clearest term since styleguide can also refer to design-centric guides.
+
 :speech_balloon:
 Discussion is encouraged by filling out an issue:
 <https://github.com/himedlooff/frontend-pattern-library-workflow/issues/new>
