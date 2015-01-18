@@ -1,16 +1,18 @@
-# Introducing styleguides into your front-end workflow
+# Introducing pattern libraries into your front-end workflow
 
 :thought_balloon:
-As a front-end developer I have recently been including styleguides into my workflow.
+As a front-end developer I have recently been including pattern libraries into my workflow.
 This document is my attempt to capture and share my experience and thoughts with others.
 
 :speech_balloon:
 Discussion is encouraged by filling out an issue:
-<https://github.com/himedlooff/frontend-styleguide-workflow/issues/new>
+<https://github.com/himedlooff/frontend-pattern-library-workflow/issues/new>
 
 ---
 
-# Styleguide pros and cons
+# Pattern library vs styleguide
+
+# Pattern library pros and cons
 
 - Pro: promotes code reuse, which means less redundant code
 - Pro: awareness of what exists across teams and team members
@@ -20,11 +22,13 @@ Discussion is encouraged by filling out an issue:
 - Con: over-documenting can make it hard for others to find what they're looking for
 - Con: under-documenting can cause fractured implementation of patterns
 
-# Who owns the styleguide?
+# Front-end owning the pattern library
+
+- 
 
 # Experience
 
-## Process used
+## Workflow
 
 - Analyze the design and spot new patterns.
 - Build the patterns first.
