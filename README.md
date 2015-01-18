@@ -31,8 +31,6 @@ Discussion is encouraged by filling out an issue:
 
 # Front-end owning the pattern library
 
-- 
-
 # Experience
 
 ## Workflow
@@ -42,3 +40,15 @@ Discussion is encouraged by filling out an issue:
 - Document and collect them into a pattern library as you build them, not after you're done building the design. Use tools like Topdoc or Dox-ray. Use task runners like Grunt to help with this process.
 - Build out the design using the patterns you created.
 - Think "reusable" first, instead of "page-specific" first. It's easier to have a one-off pattern than it is to go back and refactor patterns that you thought were page-specific.
+
+# Formats
+
+Talk about the different formats that your pattern library can take and baby steps that can help you ease into this kind of workflow.
+
+# Participation
+
+Thoughts on making participation easy:
+
+- Make it part of the workflow
+- Use GitHub, GitHub Issues and GitHub Pages
+- jQuery gh-issues plugin
