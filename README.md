@@ -7,6 +7,8 @@ This document is my attempt to capture and share my experience and thoughts with
 :question:
 I'm not exactly sure about terminology here. Am I referring to a style guide, a living style guide, a CSS or front-end style guide, a pattern library?
 _Pattern library_ seems to be the clearest term since _style guide_ can also refer to design-centric guides.
+Further thoughts on this will be tracked here:
+<https://github.com/himedlooff/frontend-pattern-library-workflow/issues/1>
 
 :speech_balloon:
 Discussion is encouraged by filling out an issue:
