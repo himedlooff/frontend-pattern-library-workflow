@@ -21,6 +21,7 @@ Discussion is encouraged by filling out an issue:
 # Pattern library pros and cons
 
 - Pro: promotes code reuse, which means less redundant code
+- Pro: easy to test
 - Pro: awareness of what exists across teams and team members
 - Pro: front-end code is more approachable and usable by other team members, even non-technical team members, making the front-end developer less of a blocker
 - Con: fitting it into your workflow can be a challenge
