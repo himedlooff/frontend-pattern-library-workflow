@@ -5,8 +5,8 @@ As a front-end developer I have recently been including pattern libraries into m
 This document is my attempt to capture and share my experience and thoughts with others.
 
 :question:
-I'm not exactly sure about terminology here. Am I referring to a styleguide, a living styleguide, a pattern library?
-_Pattern library_ seems to be the clearest term since styleguide can also refer to design-centric guides.
+I'm not exactly sure about terminology here. Am I referring to a style guide, a living style guide, a pattern library?
+_Pattern library_ seems to be the clearest term since style guide can also refer to design-centric guides.
 
 :speech_balloon:
 Discussion is encouraged by filling out an issue:
@@ -14,7 +14,7 @@ Discussion is encouraged by filling out an issue:
 
 ---
 
-# Pattern library vs styleguide
+# What is a pattern library?
 
 # Pattern library pros and cons
 
