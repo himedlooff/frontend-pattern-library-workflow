@@ -11,6 +11,6 @@ even non-technical team members, making the front-end developer less of a blocke
 This talk will examine Mike's experiences with introducing the pattern library concept into his workflow
 by sharing baby steps like _thinking patterns-first_ and creating a simple page-o-patterns,
 to more advanced steps like incorporating a pattern library generator into a task runner like Grunt
-and even creating your own custom-structured pattern library and plugins.
+and even creating your own custom-structured pattern library generator and plugins.
 
 TODO: The abstract contains more specific details and demonstrates deep knowledge of the topic.
