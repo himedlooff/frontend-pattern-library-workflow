@@ -1,5 +1,5 @@
 **Title:**
-How introducing pattern libraries into your front-end workflow can change you
+Front-end pattern library adventures
 
 **Description:**
 Introducing a pattern library into your front-end workflow can be a huge benefit
